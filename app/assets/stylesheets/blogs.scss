@@ -26,7 +26,9 @@ ul{
     box-sizing: border-box;
     border: solid 1px #fff;
 }
-.topic li{
+.contents .topic li{
+    background-color: transparent;
+    color:black;
     margin:1%;
     border-bottom: dotted 1px #333333;
 }
